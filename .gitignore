@@ -1,0 +1,6 @@
+.idea
+/venv
+/temp
+/data
+reports/
+.coverage
